@@ -77,12 +77,12 @@ The following is the result:
 
 * car.jpg by using cv2 module
 
-![](https://github.com/dakun333/py3lsd/blob/master/example/car.jpg)
+![](https://github.com/dakun333/py3lsd/example/car.jpg)
 
-![](https://github.com/dakun333/py3lsd/blob/master/example/cv2_car.jpg)
+![](https://github.com/dakun333/py3lsd/example/cv2_car.jpg)
 
 * house.png by using PIL(Image) module
 
-![](https://github.com/dakun333/py3lsd/blob/master/example/house.png)
+![](https://github.com/dakun333/py3lsd/example/house.png)
 
-![](https://github.com/dakun333/py3lsd/blob/master/example/PIL_house.jpg)
+![](https://github.com/dakun333/py3lsd/example/PIL_house.jpg)
