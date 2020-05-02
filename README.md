@@ -85,4 +85,4 @@ The following is the result:
 
 ![](https://github.com/dakun333/py3lsd/example/house.png)
 
-![](https://github.com/dakun333/py3lsd/example/PIL_house.jpg)
+![](https://github.com/dakun333/py3lsd/blob/master/example/PIL_house.jpg)
